@@ -19,7 +19,12 @@ int main()
     {
         cout<<"Entered Number is Nagative.";
     }
-
+     else
+        
+    {
+        cout<<"You have Entered Zero.";
+    }
+    
     
     return 0;    
 }
