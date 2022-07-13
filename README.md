@@ -1,2 +1,2 @@
-# SEM-2
+# SEMIII
 Java & C++ Code
